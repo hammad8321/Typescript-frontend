@@ -4,7 +4,7 @@ import './index.css';
 import App from './Container/App';
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap/dist/js/bootstrap.js";
-import "bootstrap-icons/font/bootstrap-icons.json";
+import "bootstrap-icons/font/bootstrap-icons.css";
 
 
 

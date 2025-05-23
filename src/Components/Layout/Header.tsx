@@ -2,7 +2,8 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div>i am a Header</div>
+     <div className='footer fixed-top text-center p-3 bg-dark text-white'>
+      Header</div>
   )
 }
 
